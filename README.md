@@ -1,5 +1,7 @@
 # <<面向面试官编程>>系列
 
+
+
 [TOC]
 
 ![<<面向面试官编程>>系列](/Users/dreamli/Workspace/MyRepository/javafamily/assets/img/interview.png)
@@ -26,31 +28,35 @@
 
 
 
-
-
 ## 2. JVM
 
-### 2.1 JVM 内存模型
+### 2.0 自己编译 JDK
 
-### 2.2 类加载机制
+### 2.1 垃圾回收机制与算法
 
-### 2.3 垃圾回收机制与算法
+### 2.2 垃圾收集器
 
-### 2.4 JVM 性能调优工具
+### 2.3 类加载机制
 
-#### 2.4.1 jps
+### 2.4 JVM 内存模型
 
-#### 2.4.2 jstat
+### 2.5 JVM 性能调优
 
-#### 2.4.3  jinfo
+### 2.5.1 [Java 对象内存大小](./chapter/2.4-JVM内存模型)
 
-#### 2.4.4 jmap
+#### 2.5.1 jps
 
-#### 2.4.5 jhat
+#### 2.5.2 jstat
 
-#### 2.4.6 jstack
+#### 2.5.3  jinfo
 
-#### 2.4.7 jConsole
+#### 2.5.4 jmap
+
+#### 2.5.5 jhat
+
+#### 2.5.6 jstack
+
+#### 2.5.7 jConsole
 
 
 
