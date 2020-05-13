@@ -2,7 +2,7 @@
 
 
 
-![interview.png](https://github.com/JavaFamilyClub/assets/blob/master/img/interview.png)
+![interview.png](https://github.com/JavaFamilyClub/assets/raw/master/img/interview.png)
 
 
 
