@@ -2,9 +2,7 @@
 
 
 
-![interview.png](https://github.com/JavaFamilyClub/assets/raw/master/img/interview.png)
-
-
+![interview](./img/interview.png)
 
 
 
@@ -32,17 +30,19 @@
 
 ### 2.0 自己编译 JDK
 
-### 2.1 垃圾回收机制与算法
+### 2.1 内存区域与OOM
 
-### 2.2 垃圾收集器
+#### 2.1.1 运行时数据区域
+
+#### 2.1.2 [内存布局](./chapter/对象的内存布局.md)
+
+### 2.2 垃圾收集器与内存分配策略
 
 ### 2.3 类加载机制
 
 ### 2.4 JVM 内存模型
 
-### 2.5 JVM 性能调优
-
-### 2.5.1 [Java 对象内存大小](./chapter/Java对象内存大小.md)
+### 2.5 JVM 性能监控工具与调优
 
 #### 2.5.1 jps
 
