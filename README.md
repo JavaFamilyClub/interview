@@ -2,7 +2,7 @@
 
 
 
-![Yg3cut.png](img/Yg3cut.png)
+![xmind](https://s1.ax1x.com/2020/05/17/Yg3cut.png)
 
 
 
