@@ -2,7 +2,7 @@
 
 
 
-![interview](./img/interview.png)
+![Yg3cut.png](img/Yg3cut.png)
 
 
 
